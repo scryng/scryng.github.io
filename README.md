@@ -2,8 +2,7 @@
 Sorocaba, SP  
 [(15) 99611-3352](https://wa.me/+5515996113352)  
 gnyrcs@gmail.com  
-
-GitHub: https://github.com/scryng  
+ 
 Discord: scryng
 
 ---
@@ -33,7 +32,7 @@ Discord: scryng
 
 # Projetos  
 
-### [**Jogo: PacMan**](https://github.com/scryng/pacman) | IntelliJ IDEA, Java 8, JavaFX  
+### [Jogo: PacMan](https://github.com/scryng/pacman) | IntelliJ IDEA, Java 8, JavaFX  
 ### Recriação do Jogo 2D PacMan utilizando Java  
 - Desenvolvimento da estruturação do projeto, utilizando diagrama de classes e diagrama UML  
 - Desenvolvimento de toda a lógica e fluxo do jogo usando conceitos de Orientação a Objetos  
@@ -41,7 +40,7 @@ Discord: scryng
 
 ---
 
-### [**API's Ecossistema Bancário**](https://github.com/scryng/apis-banking-ecosystem) | Python, FastAPI, Pyenv, Poetry, Pydantic, SQLAlchemy, Alembic, Ruff, Pytest, Taskpy  
+### [API's Ecossistema Bancário](https://github.com/scryng/apis-banking-ecosystem) | Python, FastAPI, Pyenv, Poetry, Pydantic, SQLAlchemy, Alembic, Ruff, Pytest, Taskpy  
 ### Combinação de microsserviços para um ecossistema de banco digital e cartão de crédito  
 - Desenvolvimento de Aplicação de Webhook  
 - Desenvolvimento de Aplicação de Armazenamento de Dados  
