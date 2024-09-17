@@ -1,9 +1,9 @@
 # Informações
 
-Residência: Sorocaba, SP  
-Telefone: [(15) 99611-3352](https://wa.me/+5515996113352)  
-Email: [gnyrcs@gmail.com](mailto:gnyrcs@gmail.com)  
-Discord: scryng
+- Residência: Sorocaba, SP  
+- Telefone: [(15) 99611-3352](https://wa.me/+5515996113352)  
+- Email: [gnyrcs@gmail.com](mailto:gnyrcs@gmail.com)  
+- Discord: scryng
 
 ---
 
@@ -20,28 +20,29 @@ Discord: scryng
 - Java (Spring Boot)  
 - C# (.NET)  
 - Lua (vRP)  
-- Conteinerização (Docker, k8s)  
-- Banco de Dados (PostgreSQL, MongoDB, MariaDB)  
+- Conteinerização (Docker, Kubernetes)  
+- Banco de Dados (PostgreSQL, MongoDB, MariaDB, SQLite)  
 - Serviços de mensageria (RabbitMQ, Kafka, Pub/Sub)  
 - Armazenamento em cache (Redis)  
-- Git (GitHub, Azure DevOps)  
-- Metodologias Ágeis (Scrum, GitFlow)  
-- Documentação (Markdown, Mermaid, HTML)  
+- Git (GitHub, GitFlow, Azure DevOps)  
+- Metodologias Ágeis (Scrum)  
+- Documentação (Markdown, Mermaid, HTML)
+- Sistemas Operacionais (Linux/Ubuntu, Windows)  
 
 ---
 
 # Projetos  
 
-### [Jogo: PacMan](https://github.com/scryng/pacman) | IntelliJ IDEA, Java 8, JavaFX  
-### Recriação do Jogo 2D PacMan utilizando Java  
+### [Projeto Java: Jogo - PacMan](https://github.com/scryng/pacman) | IntelliJ IDEA, Java 8, JavaFX  
+#### Recriação do Jogo 2D PacMan utilizando Java  
 - Desenvolvimento da estruturação do projeto, utilizando diagrama de classes e diagrama UML  
 - Desenvolvimento de toda a lógica e fluxo do jogo usando conceitos de Orientação a Objetos  
 - Projeto desenvolvido em Squad utilizando Scrum  
 
 ---
 
-### [API's Ecossistema Bancário](https://github.com/scryng/apis-banking-ecosystem) | Python, FastAPI, Pyenv, Poetry, Pydantic, SQLAlchemy, Alembic, Ruff, Pytest, Taskpy  
-### Combinação de microsserviços para um ecossistema de banco digital e cartão de crédito  
+### [Projeto Python: API's Ecossistema Bancário](https://github.com/scryng/apis-banking-ecosystem) | PyCharm, FastAPI, Pyenv, Poetry, Pydantic, SQLAlchemy, Alembic, Ruff, Pytest, Taskpy  
+#### Combinação de microsserviços para um ecossistema de banco digital e cartão de crédito
 - Desenvolvimento de Aplicação de Webhook  
 - Desenvolvimento de Aplicação de Armazenamento de Dados  
 - Desenvolvimento de Aplicação de Streaming para produto  
@@ -51,7 +52,7 @@ Discord: scryng
 
 ---
 
-# Experiência Profissional  
+# Experiência  
 
 ### **Desenvolvedor Back-End** | [2RP Net](https://www.2rpnet.com.br)  
 - Março de 2024 - Atualmente (7 meses)  
@@ -81,7 +82,7 @@ Discord: scryng
 
 ---
 
-# Educação  
+# Formação acadêmica
 
 ### **Senai São Paulo** | Graduação - Curso Superior de Tecnologia  
 ### [Análise e Desenvolvimento de Sistemas](https://faculdades.sp.senai.br/curso/102901/tecnologo-em-analise-e-desenvolvimento-de-sistemas) - Presencial (Janeiro de 2024 - Dezembro de 2025)  
@@ -95,8 +96,12 @@ Discord: scryng
 
 # Pessoal
 
-- Interesses
+### Interesses/Hobbies
 
----
+Sou apaixonado por musculação, atividade que me ensina disciplina, foco e superação constante, habilidades que aplico também no meu dia a dia profissional. Acompanhada de uma alimentação saudável, a prática regular de exercícios físicos contribui para minha produtividade e bem-estar.
 
-- Hobbies
+Gosto de aproveitar momentos com a família em churrascos, que são essenciais para relaxar e fortalecer laços.
+
+Tenho um grande interesse pelo desenvolvimento de jogos, onde posso unir criatividade e lógica na criação de novas experiências.
+
+Sou um grande apreciador de música, que me acompanha na maior parte do dia, funcionando como uma terapia e uma fonte de inspiração.
