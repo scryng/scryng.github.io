@@ -1,8 +1,8 @@
-# Gustavo C. S. Sousa  
-Sorocaba, SP  
-[(15) 99611-3352](https://wa.me/+5515996113352)  
-gnyrcs@gmail.com  
- 
+# Informações
+
+Residência: Sorocaba, SP  
+Telefone: [(15) 99611-3352](https://wa.me/+5515996113352)  
+Email: [gnyrcs@gmail.com](mailto:gnyrcs@gmail.com)  
 Discord: scryng
 
 ---
