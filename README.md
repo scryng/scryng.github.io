@@ -20,7 +20,7 @@ Discord: scryng
 - Java (Spring Boot)  
 - C# (.NET)  
 - Lua (vRP)  
-- Virtualização (Docker, Kubernetes)  
+- Conteinerização (Docker, k8s)  
 - Banco de Dados (PostgreSQL, MongoDB, MariaDB)  
 - Serviços de mensageria (RabbitMQ, Kafka, Pub/Sub)  
 - Armazenamento em cache (Redis)  
